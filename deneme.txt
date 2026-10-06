@@ -20,3 +20,7 @@
 
 
 yeni özellik başarııyla tamamlandı.
+
+
+
+Sistemdeki hata giderildi.
